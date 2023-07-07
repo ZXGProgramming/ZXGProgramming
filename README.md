@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZXGProgramming
+- 👋 Hi, I’m @Omxttech
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning CSS Lang
 - 💞️ I’m looking to collaborate on ...
