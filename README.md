@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Omxttech
-- 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning CSS Lang
+- 👋 Hi, I’m @ZXGProgramming
+- 👀 I’m interested in Web Design
+- 🌱 I’m currently learning Template 3 From El-zero Web School Channel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - WhatsApp: +20 01286652717
